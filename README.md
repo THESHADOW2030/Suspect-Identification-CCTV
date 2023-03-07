@@ -1,5 +1,5 @@
 # Suspect Identification in CCTV Footage
-
+This is the project for the biometric systems course of the master degree in Computer Science at Sapienza
 ## Dataset
 
 The dataset used for this project is [ChokePoint](https://arma.sourceforge.net/chokepoint/), which consists of 25 subjects (19 male and 6 female) in portal 1 and 29 subjects (23 male and 6 female) in portal 2. The recording of portal 1 and portal 2 are one month apart. The dataset has frame rate of 30 fps and the image resolution is 800X600 pixels.
